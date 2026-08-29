@@ -2,6 +2,17 @@ aid: elanco-animal-health
 url: https://raw.githubusercontent.com/api-evangelist/elanco-animal-health/refs/heads/main/apis.yml
 name: Elanco Animal Health
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
